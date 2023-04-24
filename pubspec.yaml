@@ -1,0 +1,14 @@
+
+name: AgendamentoDart
+description: descrição-do-seu-projeto
+version: 2.15.0
+
+dependencies:
+  sdk: '>=2.15.0 <3.0.0'
+  
+  flutter:
+
+  # Adicione outras dependências aqui, conforme necessário.
+
+  # Exemplo de dependência:
+  # cupertino_icons: ^1.0.2
